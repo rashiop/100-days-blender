@@ -1,4 +1,4 @@
-# blender
+# 100 days of blender
 
 ## What
 Documenting my blender journey
